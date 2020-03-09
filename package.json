@@ -10,10 +10,10 @@
     "rebuild": "electron-rebuild -f -w nodegit"
   },
   "dependencies": {
-    "nodegit": "0.26.4"
+    "nodegit": "0.26.5"
   },
   "devDependencies": {
-    "electron": "8.0.1",
+    "electron": "8.1.0",
     "electron-rebuild": "1.10.0"
   }
 }

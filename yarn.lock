@@ -421,10 +421,10 @@ electron-rebuild@1.10.0:
     spawn-rx "^3.0.0"
     yargs "^14.2.0"
 
-electron@8.0.1:
-  version "8.0.1"
-  resolved "https://registry.npm.taobao.org/electron/download/electron-8.0.1.tgz?cache=0&sync_timestamp=1581823268023&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felectron%2Fdownload%2Felectron-8.0.1.tgz#7f5070a1625f423cddcece25a1eb9e6d2f1339fb"
-  integrity sha1-f1BwoWJfQjzdzs4loeuebS8TOfs=
+electron@8.1.0:
+  version "8.1.0"
+  resolved "https://registry.npm.taobao.org/electron/download/electron-8.1.0.tgz?cache=0&sync_timestamp=1583504592565&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Felectron%2Fdownload%2Felectron-8.1.0.tgz#5b5ce0e2db633299261512e06d914e65a95326f8"
+  integrity sha1-W1zg4ttjMpkmFRLgbZFOZalTJvg=
   dependencies:
     "@electron/get" "^1.0.1"
     "@types/node" "^12.0.12"
@@ -1017,10 +1017,10 @@ nodegit-promise@~4.0.0:
   dependencies:
     asap "~2.0.3"
 
-nodegit@0.26.4:
-  version "0.26.4"
-  resolved "https://registry.npm.taobao.org/nodegit/download/nodegit-0.26.4.tgz#047bde88d35b3f1f1872ad1a1a3cafb37b05c64b"
-  integrity sha1-BHveiNNbPx8Ycq0aGjyvs3sFxks=
+nodegit@0.26.5:
+  version "0.26.5"
+  resolved "https://registry.npm.taobao.org/nodegit/download/nodegit-0.26.5.tgz#1534d8aaa52de7acfbbe18de28df2075de86f7d2"
+  integrity sha1-FTTYqqUt56z7vhjeKN8gdd6G99I=
   dependencies:
     fs-extra "^7.0.0"
     json5 "^2.1.0"
